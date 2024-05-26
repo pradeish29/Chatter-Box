@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Chatter-Box/static/css/main.bdf41f8e.css",
-    "main.js": "/Chatter-Box/static/js/main.215a10dd.js",
+    "main.css": "/Chatter-Box/static/css/main.0e6c4327.css",
+    "main.js": "/Chatter-Box/static/js/main.ac32212d.js",
     "static/js/453.242b527e.chunk.js": "/Chatter-Box/static/js/453.242b527e.chunk.js",
     "static/media/bg.jpg": "/Chatter-Box/static/media/bg.1d3c6ca1426d52e89e09.jpg",
     "index.html": "/Chatter-Box/index.html",
-    "main.bdf41f8e.css.map": "/Chatter-Box/static/css/main.bdf41f8e.css.map",
-    "main.215a10dd.js.map": "/Chatter-Box/static/js/main.215a10dd.js.map",
+    "main.0e6c4327.css.map": "/Chatter-Box/static/css/main.0e6c4327.css.map",
+    "main.ac32212d.js.map": "/Chatter-Box/static/js/main.ac32212d.js.map",
     "453.242b527e.chunk.js.map": "/Chatter-Box/static/js/453.242b527e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdf41f8e.css",
-    "static/js/main.215a10dd.js"
+    "static/css/main.0e6c4327.css",
+    "static/js/main.ac32212d.js"
   ]
 }
