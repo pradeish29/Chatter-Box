@@ -1,0 +1,176 @@
+.userInfo {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .user {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .user img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+  }
+  
+  .chatList{
+    flex:1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+    .chatList::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+    .chatList::-webkit-scrollbar-thumb {
+      background-color: rgba(17, 25, 40, 0.5);
+      border-radius: 10px;
+      border: 1px solid rgba(17, 25, 40, 0.75);
+    }
+    
+    .chatList::-webkit-scrollbar-track {
+      background:none;
+      border-radius: 10px;
+    }
+
+  .search {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .searchbar {
+    flex: 1;
+    background-color: rgba(17, 25, 40, 0.5);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-radius: 10px;
+  }
+  
+  .searchbar input {
+    flex: 1;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    height: 5vh;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 1px solid #dddddd35;
+    /* max-height: 100px; */
+    /* overflow:inherit; */
+    text-overflow: ellipsis;
+
+    span{
+      font-size: 20px;
+      font-weight: 500;
+    }
+  }
+
+  .item.selected {
+    background-color: #5182fed5; /* Blue background color for selected chat */
+  }
+  
+  .item img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    p{
+      text-overflow: ellipsis;
+    }
+  }
+
+  .addUser{
+    width: max-content;
+    height: max-content;
+    padding: 30px;
+    background-color: rgba(17, 25, 40, 0.95);
+    border-radius: 10px;
+    position: absolute;
+    top: 0;bottom: 0;
+    left: 0;right: 0;
+    margin: auto;
+
+    form{
+      display: flex;
+      gap: 20px;
+    }
+
+    input{
+      padding: 20px;
+      border-radius: 10px;
+      border: none;
+      outline: none;
+      background-color: rgba(9, 14, 24, 0.99);
+      height: 20px;
+      color: #fff;
+    }
+    button{
+      padding: 20px;
+      background-color: #1a73e8;
+      display: flex;
+      align-items: center;
+      border: none;
+    }
+  }
+
+  .users{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .details{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+
+      img{
+        height: 50px;
+        width: 50px;
+        object-fit: cover;
+        border-radius: 50%;
+      }
+
+      button{
+        padding: 20px;
+        background-color: #1a73e8;
+        display: flex;
+        align-items: center;
+        border: none;
+      }
+    }
+  }
+
+  .bt{
+    cursor: pointer;
+  }
