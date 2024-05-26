@@ -5,8 +5,8 @@ ChatApp is a React-based chat application that allows users to communicate in re
 ## Live Demo
 You can access the live demo of ChatApp [here](https://pradeish29.github.io/Chatter-Box).
 
-<img src="https://github.com/pradeish29/Chatter-Box/raw/main/Screenshot%202024-05-26%20132927.png" alt="Screenshot 1" width="400">
-<img src="https://github.com/pradeish29/Chatter-Box/raw/main/Screenshot%202024-05-26%20132522.png" alt="Screenshot 2" width="400">
+<img src="https://github.com/pradeish29/Chatter-Box/raw/main/Screenshot%202024-05-26%20132927.png" alt="Screenshot 1" width="700">
+<img src="https://github.com/pradeish29/Chatter-Box/raw/main/Screenshot%202024-05-26%20132522.png" alt="Screenshot 2" width="700">
 
 
 ## Technologies Used
