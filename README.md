@@ -9,7 +9,6 @@ You can access the live demo of ChatApp [here](https://pradeish29.github.io/Chat
 <img src="https://github.com/pradeish29/Chatter-Box/raw/main/Screenshot%202024-05-26%20132927.png" alt="Screenshot 1" width="700">
 <img src="https://github.com/pradeish29/Chatter-Box/raw/main/Screenshot%202024-05-26%20132522.png" alt="Screenshot 2" width="700">
 
-
 ## Technologies Used
 - React
 - Firebase (for real-time database and authentication)
