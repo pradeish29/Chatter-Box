@@ -1,7 +1,7 @@
 # Chatter-Box 
 
 ## Description
-ChatApp is a React-based chat application that allows users to communicate in real-time. It provides features such as emoji support,images sharing, message notifications, and more.
+ChatApp is a React-based chat application that allows users to communicate in real-time. It provides features such as emoji support,images sharing, message notifications, and more. 
 
 ## Live Demo
 You can access the live demo of ChatApp [here](https://pradeish29.github.io/Chatter-Box).
